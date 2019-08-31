@@ -9,5 +9,5 @@ def currency(value):
 value = currency(1000)
 
 print(value)
-# run in self complete, will show $1,000.00
+# run in self computer, will show $1,000.00
 # run in the docker, will show Currency formatting is not possible using the 'C' locale.
